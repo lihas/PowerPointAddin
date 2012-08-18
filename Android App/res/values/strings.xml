@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, PowerpointClickActivity!</string>
+    <string name="app_name">PowerpointClick</string>
+    <string name="ipaddress1">Enter Ip Address</string>
+    <string name="MouseClick1">Mouse Click</string>
+    <string name="PreviousSlide1">Previous Slide</string>
+    <string name="NextSlide1">"        Next Slide      "</string>
+    <string name="saveIpButton1">Save IP and Port</string>
+
+</resources>
