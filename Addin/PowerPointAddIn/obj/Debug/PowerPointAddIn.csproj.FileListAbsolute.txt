@@ -1,0 +1,11 @@
+c:\users\sah.000\documents\visual studio 2010\Projects\PowerPointAddIn\PowerPointAddIn\bin\Debug\PowerPointAddIn.dll
+c:\users\sah.000\documents\visual studio 2010\Projects\PowerPointAddIn\PowerPointAddIn\bin\Debug\PowerPointAddIn.pdb
+c:\users\sah.000\documents\visual studio 2010\Projects\PowerPointAddIn\PowerPointAddIn\bin\Debug\PowerPointAddIn.dll.manifest
+c:\users\sah.000\documents\visual studio 2010\Projects\PowerPointAddIn\PowerPointAddIn\bin\Debug\PowerPointAddIn.vsto
+c:\users\sah.000\documents\visual studio 2010\Projects\PowerPointAddIn\PowerPointAddIn\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+c:\users\sah.000\documents\visual studio 2010\Projects\PowerPointAddIn\PowerPointAddIn\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.xml
+c:\users\sah.000\documents\visual studio 2010\Projects\PowerPointAddIn\PowerPointAddIn\obj\Debug\PowerPointAddIn.Properties.Resources.resources
+c:\users\sah.000\documents\visual studio 2010\Projects\PowerPointAddIn\PowerPointAddIn\obj\Debug\PowerPointAddIn.csproj.GenerateResource.Cache
+c:\users\sah.000\documents\visual studio 2010\Projects\PowerPointAddIn\PowerPointAddIn\obj\Debug\PowerPointAddIn.dll
+c:\users\sah.000\documents\visual studio 2010\Projects\PowerPointAddIn\PowerPointAddIn\obj\Debug\PowerPointAddIn.pdb
+C:\Users\sah.000\documents\visual studio 2010\Projects\PowerPointAddIn\PowerPointAddIn\obj\Debug\PowerPointAddIn.csprojResolveAssemblyReference.cache
